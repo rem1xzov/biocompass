@@ -26,6 +26,18 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          # Pages может быть не включён в настройках репозитория: в этом случае action
+          # включает его сам (Source: GitHub Actions), а не падает с «Get Pages site failed».
+          enablement: true
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build knowledge bundle from public export
+        run: node scripts/build-kb.mjs
 
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
