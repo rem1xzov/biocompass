@@ -247,6 +247,15 @@ function mdToHtml(md) {
 
 function main() {
   if (!fs.existsSync(PUBLIC_DIR)) {
+    // База знаний живёт в отдельном репозитории. На CI публикационной выгрузки нет —
+    // тогда используется закоммиченный kb/kb.json (он собран из dist/public локально).
+    const committed = path.join(OUT_DIR, 'kb.json');
+    if (fs.existsSync(committed)) {
+      const bundle = JSON.parse(fs.readFileSync(committed, 'utf8'));
+      console.log(`публикационная выгрузка недоступна (${PUBLIC_DIR}) — используем закоммиченный kb/kb.json`);
+      console.log(`статьи ${bundle.articles.length}, точки ${bundle.points.length}, изделия ${bundle.products.length}, нормы ${bundle.norms.length}`);
+      return;
+    }
     console.error(`Нет публикационной выгрузки: ${PUBLIC_DIR}`);
     process.exit(1);
   }
