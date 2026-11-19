@@ -1,0 +1,11 @@
+{
+  "name": "Биокомпас · функциональная архитектура",
+  "id": "biocompass-architecture-plugin",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figjam"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}

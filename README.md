@@ -166,6 +166,20 @@ python tools/export_web.py     # пересборка biocompass/kb/kb.json
 прежний демо-режим и показывает статичные карточки — это осознанный fallback, в консоли
 будет предупреждение.
 
+## Плагин Figma: функциональная архитектура
+
+В `figma-plugin/` лежит плагин для FigJam, который собирает функциональную архитектуру
+приложения из той же базы знаний: входы → разделы → цикл статей по 10 этапам → каталог →
+слой доказательств, плюс отдельный фрейм с 12 типовыми маршрутами.
+
+```powershell
+node scripts/build-plugin-data.mjs   # данные из kb/kb.json + routes.json → figma-plugin/code.js
+node scripts/test-plugin.mjs         # проверка с мок-API Figma + preview/figma-plugin-architecture.svg
+```
+
+Установка: Figma Desktop → Plugins → Development → Import plugin from manifest… →
+`figma-plugin/manifest.json`. Подробности и ограничения — в [figma-plugin/README.md](figma-plugin/README.md).
+
 ## Референсы
 
 - [poehali.dev](https://poehali.dev/) — тёмная тема, крупная типографика, оранжевый акцент.
