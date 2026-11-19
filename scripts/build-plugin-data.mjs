@@ -109,8 +109,9 @@ const data = {
 
 const banner = '/* Сгенерировано scripts/build-plugin-data.mjs — не редактировать вручную. */\n' +
   `const KB_DATA = ${JSON.stringify(data, null, 2)};\n\n`;
+const arch = fs.readFileSync(path.join(SITE, 'figma-plugin', 'architecture.js'), 'utf8');
 const body = fs.readFileSync(BODY, 'utf8');
-fs.writeFileSync(OUT, banner + body, 'utf8');
+fs.writeFileSync(OUT, banner + arch + '\n' + body, 'utf8');
 
 console.log(
   `figma-plugin/code.js: ${articles.length}/${fullCycle.length} статей опубликовано, ` +

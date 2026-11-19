@@ -116,11 +116,11 @@ setTimeout(() => {
   const titles = texts.map((t) => t.node.characters);
 
   const problems = [];
-  if (frames.length !== 2) problems.push(`ожидалось 2 фрейма, получено ${frames.length}`);
-  if (connectors.length < 20) problems.push(`мало связей: ${connectors.length}`);
-  if (shapes.length < 30) problems.push(`мало карточек: ${shapes.length}`);
-  for (const word of ['Функциональная архитектура', 'Цикл статей', 'Меню и навигация',
-    'Карточка изделия', 'Политика публикации', 'Профиль и регистрация']) {
+  if (frames.length !== 6) problems.push(`ожидалось 6 фреймов, получено ${frames.length}`);
+  if (connectors.length < 40) problems.push(`мало связей: ${connectors.length}`);
+  if (shapes.length < 80) problems.push(`мало карточек: ${shapes.length}`);
+  for (const word of ['Функциональная архитектура', 'Общие функции', 'Функциональный сценарий',
+    'Матрица: раздел × компонент', 'Слой данных', 'Цикл статей']) {
     if (!titles.some((t) => t.includes(word))) problems.push(`нет заголовка «${word}»`);
   }
   const ids = new Set(all.map((i) => i.node.id));
@@ -130,8 +130,8 @@ setTimeout(() => {
     if (!ids.has(s) || !ids.has(e)) problems.push(`связь ${c.id} ссылается на отсутствующий узел`);
   }
 
-  // пересечения карточек между колонками (контейнеры секций — radius 28 — не считаем)
-  const cards = shapes.filter((s) => s.node.width < 700 && s.node.cornerRadius !== 28);
+  // пересечения карточек (контейнеры секций не считаем)
+  const cards = shapes.filter((s) => s.node.width < 700 && s.node.name !== 'section' && s.node.name !== 'container');
   let overlaps = 0;
   for (let i = 0; i < cards.length; i++) {
     for (let j = i + 1; j < cards.length; j++) {
@@ -152,7 +152,7 @@ setTimeout(() => {
   fs.mkdirSync(path.dirname(OUT_JSON), { recursive: true });
   fs.writeFileSync(OUT_JSON, JSON.stringify({
     frames: frames.map((f) => ({
-      name: f.name, width: f.width, height: f.height,
+      name: f.name, x: f.x, y: f.y, width: f.width, height: f.height,
       shapes: f.children.filter((c) => c.type === 'SHAPE_WITH_TEXT').length,
       texts: f.children.filter((c) => c.type === 'TEXT').length
     })),
@@ -161,7 +161,7 @@ setTimeout(() => {
   }, null, 2) + '\n', 'utf8');
 
   /* ------------------------------ SVG ------------------------------ */
-  const W = Math.max(...frames.map((f) => f.x + f.width)) + 0;
+  const W = Math.max(...frames.map((f) => f.x + f.width));
   const H = Math.max(...frames.map((f) => f.y + f.height));
   const parts = [];
 
@@ -192,7 +192,13 @@ setTimeout(() => {
     const stroke = paintColor(node.strokes, '#D8D0C0');
     const dash = node.strokeDashes && node.strokeDashes.length ? ' stroke-dasharray="5 5"' : '';
     const radius = node.cornerRadius || 0;
-    parts.push(`<rect x="${x}" y="${y}" width="${node.width}" height="${node.height}" rx="${radius}" fill="${fill}" stroke="${stroke}"${dash}/>`);
+    if (node.shapeType === 'DIAMOND') {
+      const cx = x + node.width / 2;
+      const cy = y + node.height / 2;
+      parts.push(`<polygon points="${cx},${y} ${x + node.width},${cy} ${cx},${y + node.height} ${x},${cy}" fill="${fill}" stroke="${stroke}"/>`);
+    } else {
+      parts.push(`<rect x="${x}" y="${y}" width="${node.width}" height="${node.height}" rx="${radius}" fill="${fill}" stroke="${stroke}"${dash}/>`);
+    }
   });
 
   texts.forEach(({ node, x, y }) => {

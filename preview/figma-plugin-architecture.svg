@@ -1,419 +1,833 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3400" height="4320" viewBox="0 0 3400 4320"><rect width="3400" height="4320" fill="#F1ECE0"/><rect x="0" y="0" width="3400" height="1500" fill="#fcfaf5"/>
-<rect x="0.5" y="0.5" width="3399" height="1499" fill="none" stroke="#E4DDCD"/>
-<rect x="0" y="1700" width="3400" height="2620" fill="#fcfaf5"/>
-<rect x="0.5" y="1700.5" width="3399" height="2619" fill="none" stroke="#E4DDCD"/>
-<path d="M270.0,355.0 L530.0,355.0 L530.0,348.0 L790.0,348.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M270.0,515.0 L530.0,515.0 L530.0,348.0 L790.0,348.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M270.0,675.0 L530.0,675.0 L530.0,348.0 L790.0,348.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M270.0,835.0 L530.0,835.0 L530.0,348.0 L790.0,348.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,348.0 L790.0,348.0 L790.0,576.0 L790.0,576.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,348.0 L790.0,348.0 L790.0,700.0 L790.0,700.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,348.0 L790.0,348.0 L790.0,948.0 L790.0,948.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,462.0 L790.0,462.0 L790.0,576.0 L790.0,576.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,462.0 L790.0,462.0 L790.0,700.0 L790.0,700.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,462.0 L790.0,462.0 L790.0,1072.0 L790.0,1072.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,576.0 L1145.0,576.0 L1145.0,316.0 L1500.0,316.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,316.0 L1500.0,316.0 L1500.0,410.0 L1500.0,410.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,410.0 L1500.0,410.0 L1500.0,504.0 L1500.0,504.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,504.0 L1500.0,504.0 L1500.0,598.0 L1500.0,598.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,598.0 L1500.0,598.0 L1500.0,692.0 L1500.0,692.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,692.0 L1500.0,692.0 L1500.0,786.0 L1500.0,786.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,786.0 L1500.0,786.0 L1500.0,880.0 L1500.0,880.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,880.0 L1500.0,880.0 L1500.0,974.0 L1500.0,974.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,974.0 L1500.0,974.0 L1500.0,1068.0 L1500.0,1068.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,1068.0 L1500.0,1068.0 L1500.0,1162.0 L1500.0,1162.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,700.0 L790.0,700.0 L790.0,824.0 L790.0,824.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,824.0 L790.0,824.0 L790.0,348.0 L790.0,348.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M1500.0,1162.0 L1145.0,1162.0 L1145.0,700.0 L790.0,700.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,576.0 L1535.0,576.0 L1535.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,700.0 L1535.0,700.0 L1535.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,948.0 L1535.0,948.0 L1535.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M2280.0,1050.0 L2280.0,1050.0 L2280.0,1154.0 L2280.0,1154.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M2280.0,1258.0 L2280.0,1258.0 L2280.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M3010.0,348.0 L2645.0,348.0 L2645.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M3010.0,468.0 L2645.0,468.0 L2645.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M3010.0,588.0 L2645.0,588.0 L2645.0,1050.0 L2280.0,1050.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M790.0,1186.0 L1145.0,1186.0 L1145.0,598.0 L1500.0,598.0" fill="none" stroke="#6b7a72" stroke-width="1.5" opacity="0.8"/>
-<path d="M458.0,1942.0 L593.0,1942.0 L593.0,1942.0 L728.0,1942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,1942.0 L863.0,1942.0 L863.0,1942.0 L998.0,1942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,2132.0 L593.0,2132.0 L593.0,2132.0 L728.0,2132.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,2132.0 L863.0,2132.0 L863.0,2132.0 L998.0,2132.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,2132.0 L1133.0,2132.0 L1133.0,2132.0 L1268.0,2132.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1268.0,2132.0 L1403.0,2132.0 L1403.0,2132.0 L1538.0,2132.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,2322.0 L593.0,2322.0 L593.0,2322.0 L728.0,2322.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,2322.0 L863.0,2322.0 L863.0,2322.0 L998.0,2322.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,2322.0 L1133.0,2322.0 L1133.0,2322.0 L1268.0,2322.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1268.0,2322.0 L1403.0,2322.0 L1403.0,2322.0 L1538.0,2322.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1538.0,2322.0 L1673.0,2322.0 L1673.0,2322.0 L1808.0,2322.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,2512.0 L593.0,2512.0 L593.0,2512.0 L728.0,2512.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,2512.0 L863.0,2512.0 L863.0,2512.0 L998.0,2512.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,2512.0 L1133.0,2512.0 L1133.0,2512.0 L1268.0,2512.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1268.0,2512.0 L1403.0,2512.0 L1403.0,2512.0 L1538.0,2512.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,2702.0 L593.0,2702.0 L593.0,2702.0 L728.0,2702.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,2702.0 L863.0,2702.0 L863.0,2702.0 L998.0,2702.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,2892.0 L593.0,2892.0 L593.0,2892.0 L728.0,2892.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,2892.0 L863.0,2892.0 L863.0,2892.0 L998.0,2892.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,2892.0 L1133.0,2892.0 L1133.0,2892.0 L1268.0,2892.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1268.0,2892.0 L1403.0,2892.0 L1403.0,2892.0 L1538.0,2892.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,3082.0 L593.0,3082.0 L593.0,3082.0 L728.0,3082.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,3082.0 L863.0,3082.0 L863.0,3082.0 L998.0,3082.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,3082.0 L1133.0,3082.0 L1133.0,3082.0 L1268.0,3082.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,3272.0 L593.0,3272.0 L593.0,3272.0 L728.0,3272.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,3272.0 L863.0,3272.0 L863.0,3272.0 L998.0,3272.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,3272.0 L1133.0,3272.0 L1133.0,3272.0 L1268.0,3272.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,3462.0 L593.0,3462.0 L593.0,3462.0 L728.0,3462.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,3462.0 L863.0,3462.0 L863.0,3462.0 L998.0,3462.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,3462.0 L1133.0,3462.0 L1133.0,3462.0 L1268.0,3462.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1268.0,3462.0 L1403.0,3462.0 L1403.0,3462.0 L1538.0,3462.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,3652.0 L593.0,3652.0 L593.0,3652.0 L728.0,3652.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,3652.0 L863.0,3652.0 L863.0,3652.0 L998.0,3652.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M998.0,3652.0 L1133.0,3652.0 L1133.0,3652.0 L1268.0,3652.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M1268.0,3652.0 L1403.0,3652.0 L1403.0,3652.0 L1538.0,3652.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,3842.0 L593.0,3842.0 L593.0,3842.0 L728.0,3842.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,3842.0 L863.0,3842.0 L863.0,3842.0 L998.0,3842.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M458.0,4032.0 L593.0,4032.0 L593.0,4032.0 L728.0,4032.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<path d="M728.0,4032.0 L863.0,4032.0 L863.0,4032.0 L998.0,4032.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
-<rect x="60" y="220" width="420" height="1080" rx="28" fill="#f6f1e6" stroke="#d8d0c0"/>
-<rect x="100" y="300" width="340" height="110" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
-<rect x="100" y="460" width="340" height="110" rx="18" fill="#e7f0ea" stroke="#d8d0c0"/>
-<rect x="100" y="620" width="340" height="110" rx="18" fill="#fde7e1" stroke="#d8d0c0"/>
-<rect x="100" y="780" width="340" height="110" rx="18" fill="#f6f1e6" stroke="#d8d0c0"/>
-<rect x="560" y="220" width="460" height="1080" rx="28" fill="#f6f1e6" stroke="#d8d0c0"/>
-<rect x="600" y="300" width="380" height="96" rx="20" fill="#ffffff" stroke="#f45b2a"/>
-<rect x="600" y="424" width="380" height="76" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="600" y="528" width="380" height="96" rx="20" fill="#ffffff" stroke="#f45b2a"/>
-<rect x="600" y="652" width="380" height="96" rx="20" fill="#ffffff" stroke="#f45b2a"/>
-<rect x="600" y="776" width="380" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="600" y="900" width="380" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="600" y="1024" width="380" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="600" y="1148" width="380" height="76" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1120" y="220" width="760" height="1080" rx="28" fill="#f6f1e6" stroke="#d8d0c0"/>
-<rect x="1160" y="280" width="680" height="72" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1160" y="374" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="468" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="562" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="656" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="750" width="680" height="72" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1160" y="844" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="938" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="1032" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1160" y="1126" width="680" height="72" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1960" y="220" width="640" height="700" rx="28" fill="#f6f1e6" stroke="#d8d0c0"/>
-<rect x="2000" y="300" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="366" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="432" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="498" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="564" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="630" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="696" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="762" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="828" width="560" height="52" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1960" y="950" width="640" height="350" rx="28" fill="#f6f1e6" stroke="#d8d0c0"/>
-<rect x="2000" y="1010" width="560" height="80" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="1114" width="560" height="80" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2000" y="1218" width="560" height="80" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2680" y="300" width="660" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2680" y="420" width="660" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="2680" y="540" width="660" height="96" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
-<rect x="360" y="1894" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="1894" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="1894" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="2084" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="2084" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="2084" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1170" y="2084" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1440" y="2084" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="2274" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="630" y="2274" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="2274" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1170" y="2274" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1440" y="2274" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1710" y="2274" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="360" y="2464" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="2464" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="2464" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1170" y="2464" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1440" y="2464" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="360" y="2654" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="2654" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="900" y="2654" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="2844" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="630" y="2844" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="2844" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1170" y="2844" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1440" y="2844" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="3034" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="3034" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="3034" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1170" y="3034" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="3224" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="3224" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="3224" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1170" y="3224" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="3414" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="630" y="3414" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="3414" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1170" y="3414" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1440" y="3414" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="3604" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="630" y="3604" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="900" y="3604" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="1170" y="3604" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="1440" y="3604" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="360" y="3794" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="630" y="3794" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="900" y="3794" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="360" y="3984" width="196" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
-<rect x="630" y="3984" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<rect x="900" y="3984" width="196" height="96" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
-<text x="60.0" y="92.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#14231c">Функциональная архитектура приложения</text>
-<text x="60.0" y="123.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#6b7a72">Собрана из публикационной выгрузки базы знаний: 20 статей, 68 изделий, 17 норм, 11 проверенных точек. Утверждений: 191, источников: 94. Политика публикации 1.1.0.</text>
-<text x="2840.0" y="72.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6b7a72">обновлено 2026-11-18</text>
-<text x="80.0" y="250.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#6b7a72">1. ВХОДЫ</text>
-<text x="80.0" y="269.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">с какой ситуацией приходит человек</text>
-<text x="114.0" y="325.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Узнал об ампутации</text>
-<text x="114.0" y="344.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">операция впереди · тревога</text>
-<text x="114.0" y="485.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Готовится к протезу</text>
-<text x="114.0" y="504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">документы, ИПРА, центр</text>
-<text x="114.0" y="645.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Уже протезируется</text>
-<text x="114.0" y="664.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">посадка, уход, замена</text>
-<text x="114.0" y="805.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Близкий помогает</text>
-<text x="114.0" y="824.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">родственник рядом</text>
-<text x="580.0" y="250.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#6b7a72">2. РАЗДЕЛЫ ПРИЛОЖЕНИЯ</text>
-<text x="580.0" y="269.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">экраны и сервисы</text>
-<text x="614.0" y="325.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Агент</text>
-<text x="614.0" y="344.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">диалог, контекст, ссылки на источники</text>
-<text x="614.0" y="449.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Меню и навигация</text>
-<text x="614.0" y="468.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">чат · маршрут · база · каталог · организации</text>
-<text x="614.0" y="553.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">База знаний</text>
-<text x="614.0" y="572.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">этапы пути, статьи, следующий шаг</text>
-<text x="614.0" y="677.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Каталог протезов и комплектующих</text>
-<text x="614.0" y="696.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">протезы рук и ног, МПУ, комплектующие</text>
-<text x="614.0" y="801.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Карточка изделия</text>
-<text x="614.0" y="820.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">срок эксплуатации, критерии подбора, где подходит</text>
-<text x="614.0" y="925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Организации</text>
-<text x="614.0" y="944.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">только проверенные точки и профили</text>
-<text x="614.0" y="1049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Профиль и регистрация</text>
-<text x="614.0" y="1068.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">имя, телефон, email, согласия</text>
-<text x="614.0" y="1173.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Маршрут пользователя</text>
-<text x="614.0" y="1192.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">пять этапов, прогресс, следующий шаг</text>
-<text x="1140.0" y="250.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#6b7a72">3. ЦИКЛ СТАТЕЙ ПО ЭТАПАМ</text>
-<text x="1140.0" y="269.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">линейка этапов: каждая статья — шаг пути</text>
-<text x="1174.0" y="305.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">0. Подготовка к ампутации</text>
-<text x="1174.0" y="324.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">0 опубликовано · 2 в проверке</text>
-<text x="1174.0" y="399.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">1. Ранний период после ампутации</text>
-<text x="1174.0" y="418.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">4 опубликовано · 10 в проверке</text>
-<text x="1174.0" y="493.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">2. МСЭ, инвалидность и ИПРА</text>
-<text x="1174.0" y="512.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">5 опубликовано · 4 в проверке</text>
-<text x="1174.0" y="587.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">3. Выбор центра и вида протеза</text>
-<text x="1174.0" y="606.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">8 опубликовано · 9 в проверке</text>
-<text x="1174.0" y="681.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">4. Изготовление и примерки</text>
-<text x="1174.0" y="700.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">1 опубликовано · 6 в проверке</text>
-<text x="1174.0" y="775.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">5. Получение изделия</text>
-<text x="1174.0" y="794.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">0 опубликовано · 4 в проверке</text>
-<text x="1174.0" y="869.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">6. Обучение и реабилитация</text>
-<text x="1174.0" y="888.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">3 опубликовано · 6 в проверке</text>
-<text x="1174.0" y="963.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">7. Повседневное использование</text>
-<text x="1174.0" y="982.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">10 опубликовано · 14 в проверке</text>
-<text x="1174.0" y="1057.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">8. Обслуживание и ремонт</text>
-<text x="1174.0" y="1076.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">4 опубликовано · 6 в проверке</text>
-<text x="1174.0" y="1151.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">9. Замена и повторное протезирование</text>
-<text x="1174.0" y="1170.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">4 опубликовано · 1 в проверке</text>
-<text x="1980.0" y="250.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#6b7a72">4. КАТАЛОГ ПО КАТЕГОРИЯМ</text>
-<text x="1980.0" y="269.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">что уже подтверждено источником</text>
-<text x="2014.0" y="324.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Коленный модуль</text>
-<text x="2014.0" y="342.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">23 изделий с доказательствами</text>
-<text x="2014.0" y="390.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Стопа</text>
-<text x="2014.0" y="408.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">21 изделий с доказательствами</text>
-<text x="2014.0" y="456.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Бионическая кисть</text>
-<text x="2014.0" y="474.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">9 изделий с доказательствами</text>
-<text x="2014.0" y="522.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Модульный протез н/к</text>
-<text x="2014.0" y="540.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">4 изделий с доказательствами</text>
-<text x="2014.0" y="588.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Механическая кисть</text>
-<text x="2014.0" y="606.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">4 изделий с доказательствами</text>
-<text x="2014.0" y="654.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Детский протез</text>
-<text x="2014.0" y="672.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">3 изделий с доказательствами</text>
-<text x="2014.0" y="720.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Лайнер</text>
-<text x="2014.0" y="738.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">2 изделий с доказательствами</text>
-<text x="2014.0" y="786.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Косметический протез</text>
-<text x="2014.0" y="804.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">1 изделий с доказательствами</text>
-<text x="2014.0" y="852.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Аксессуар</text>
-<text x="2014.0" y="870.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">1 изделий с доказательствами</text>
-<text x="1980.0" y="980.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#6b7a72">5. ДАННЫЕ И ДОКАЗАТЕЛЬСТВА</text>
-<text x="1980.0" y="999.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">откуда берётся ответ</text>
-<text x="2014.0" y="1035.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Утверждения (claims)</text>
-<text x="2014.0" y="1054.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">191 подтверждённых фактов с местом в источнике</text>
-<text x="2014.0" y="1139.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Источники (sources)</text>
-<text x="2014.0" y="1158.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">94 документов и страниц с датой проверки</text>
-<text x="2014.0" y="1243.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Политика публикации</text>
-<text x="2014.0" y="1262.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">что попадает в продукт, а что остаётся в проверке</text>
-<text x="2694.0" y="325.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Правовые нормы</text>
-<text x="2694.0" y="344.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">17 норм с применимой редакцией</text>
-<text x="2694.0" y="445.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Оплата и обеспечение</text>
-<text x="2694.0" y="464.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">ИПРА · электронный сертификат · платно</text>
-<text x="2694.0" y="565.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Клиническая редактура</text>
-<text x="2694.0" y="584.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">срочность публикуется только после проверки</text>
-<text x="60.0" y="1788.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#14231c">Цикл статей: типовые входы</text>
-<text x="60.0" y="1818.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#6b7a72">Каждая цепочка — маршрут из базы знаний. Заливка = статья опубликована, пунктир = материал в проверке.</text>
-<text x="60.0" y="1911.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">1. Только узнал об ампутации (до</text>
-<text x="60.0" y="1930.8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">операции)</text>
-<text x="60.0" y="1931.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">операция предстоит или обсуждается</text>
-<text x="374.0" y="1917.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">pre-amputation-conversation</text>
-<text x="374.0" y="1934.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="1917.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">before-surgery-checklist</text>
-<text x="644.0" y="1934.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="1917.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-days-what-is-normal</text>
-<text x="914.0" y="1934.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="2101.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">2. Только что прооперировали</text>
-<text x="60.0" y="2121.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">ранний период после ампутации, рана и</text>
-<text x="60.0" y="2135.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">культя</text>
-<text x="374.0" y="2107.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-days-what-is-normal</text>
-<text x="374.0" y="2124.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="2107.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">when-call-doctor-urgent</text>
-<text x="644.0" y="2124.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="2107.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Близким: как помогать, не</text>
-<text x="914.0" y="2121.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">лишая самостоятельности</text>
-<text x="914.0" y="2124.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · →</text>
-<text x="914.0" y="2135.9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">emotions-after-amputation</text>
-<text x="1184.0" y="2107.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">documents-to-keep</text>
-<text x="1184.0" y="2124.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1454.0" y="2107.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">year-timeline</text>
-<text x="1454.0" y="2124.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="2291.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">3. Раннее восстановление: боль,</text>
-<text x="60.0" y="2310.8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">культя, первые шаги</text>
-<text x="60.0" y="2311.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">первые недели после ампутации: боль, форма</text>
-<text x="60.0" y="2325.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">культи, движения, возвращение домой</text>
-<text x="374.0" y="2297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Первый разговор о прогнозе:</text>
-<text x="374.0" y="2311.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">смогу ли ходить,</text>
-<text x="374.0" y="2326.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">пользоваться рукой</text>
-<text x="374.0" y="2314.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → pain-postop-vs-phantom</text>
-<text x="644.0" y="2297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">pain-postop-vs-phantom</text>
-<text x="644.0" y="2314.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="2297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">stump-shaping</text>
-<text x="914.0" y="2314.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1184.0" y="2297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-movements</text>
-<text x="1184.0" y="2314.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1454.0" y="2297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Возвращение домой:</text>
-<text x="1454.0" y="2311.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">подготовка квартиры</text>
-<text x="1454.0" y="2314.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → mobility-aids</text>
-<text x="1724.0" y="2297.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Кресло, ходунки, костыли:</text>
-<text x="1724.0" y="2311.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">средства передвижения на</text>
-<text x="1724.0" y="2326.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">первое время</text>
-<text x="1724.0" y="2314.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → daily-stump-care</text>
-<text x="60.0" y="2481.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">4. Собираю документы</text>
-<text x="60.0" y="2501.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">нужны МСЭ, ИПРА и оплата протеза</text>
-<text x="374.0" y="2487.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">documents-to-keep</text>
-<text x="374.0" y="2504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="2487.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">mse-step-by-step</text>
-<text x="644.0" y="2504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="2487.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">ИПРА: как читать и что</text>
-<text x="914.0" y="2501.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">проверить</text>
-<text x="914.0" y="2504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → ipra-change-tsr</text>
-<text x="1184.0" y="2487.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Как включить или изменить</text>
-<text x="1184.0" y="2501.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">ТСР в ИПРА: заявления и</text>
-<text x="1184.0" y="2516.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">порядок</text>
-<text x="1184.0" y="2504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → payment-ways</text>
-<text x="1454.0" y="2487.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Как получить и оплатить</text>
-<text x="1454.0" y="2501.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">протез: ИПРА, электронный</text>
-<text x="1454.0" y="2516.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">сертификат, платно</text>
-<text x="1454.0" y="2504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">2 утв. · → choosing-center</text>
-<text x="60.0" y="2671.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">5. Льготы, выплаты и права</text>
-<text x="60.0" y="2691.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">нужно понять, что положено, и отстоять права</text>
-<text x="374.0" y="2677.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">benefits-and-compensations</text>
-<text x="374.0" y="2694.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="2677.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Участникам СВО и их</text>
-<text x="644.0" y="2691.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">близким: особый порядок</text>
-<text x="644.0" y="2694.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → rights-choice</text>
-<text x="914.0" y="2677.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">rights-choice</text>
-<text x="914.0" y="2694.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="2861.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">6. Разбираюсь в терминах и типах</text>
-<text x="60.0" y="2880.8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">протезов</text>
-<text x="60.0" y="2881.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">нужно понять уровни ампутации, типы</text>
-<text x="60.0" y="2895.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">протезов и термины</text>
-<text x="374.0" y="2867.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Базовые термины: гильза,</text>
-<text x="374.0" y="2881.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">лайнер, подвес, модуль</text>
-<text x="374.0" y="2884.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → amputation-levels</text>
-<text x="644.0" y="2867.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">amputation-levels</text>
-<text x="644.0" y="2884.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="2867.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">prosthesis-types-lower</text>
-<text x="914.0" y="2884.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1184.0" y="2867.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">prosthesis-types-upper</text>
-<text x="1184.0" y="2884.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1454.0" y="2867.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">how-prosthetics-works</text>
-<text x="1454.0" y="2884.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="3051.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">7. Выбираю центр и протез</text>
-<text x="60.0" y="3071.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">ИПРА есть, нужно выбрать организацию и тип</text>
-<text x="60.0" y="3085.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">изделия</text>
-<text x="374.0" y="3057.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">choosing-center</text>
-<text x="374.0" y="3074.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="3057.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">questions-before-contract</text>
-<text x="644.0" y="3074.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="3057.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Как выбирают протез: образ</text>
-<text x="914.0" y="3071.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">жизни, показания, бюджет</text>
-<text x="914.0" y="3074.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → mpu-and-bionic</text>
-<text x="1184.0" y="3057.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">mpu-and-bionic</text>
-<text x="1184.0" y="3074.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="3241.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">8. Получил протез</text>
-<text x="60.0" y="3261.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">первая примерка, обучение, привыкание</text>
-<text x="374.0" y="3247.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-fit</text>
-<text x="374.0" y="3264.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="3247.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">wearing-time</text>
-<text x="644.0" y="3264.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="3247.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Этапы привыкания к протезу</text>
-<text x="914.0" y="3264.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → daily-stump-care</text>
-<text x="1184.0" y="3247.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">daily-stump-care</text>
-<text x="1184.0" y="3264.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="3431.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">9. Протез натирает, лайнер</text>
-<text x="60.0" y="3450.8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">износился или нужен ремонт</text>
-<text x="60.0" y="3451.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">проблема посадки, износ расходников,</text>
-<text x="60.0" y="3465.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">плановый осмотр, поломка</text>
-<text x="374.0" y="3437.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">event-fit-problem</text>
-<text x="374.0" y="3454.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="644.0" y="3437.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">liner-care</text>
-<text x="644.0" y="3454.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="3437.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">checkups</text>
-<text x="914.0" y="3454.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1184.0" y="3437.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Событие: поломка дома, на</text>
-<text x="1184.0" y="3451.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">улице, в поездке</text>
-<text x="1184.0" y="3454.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → warranty</text>
-<text x="1454.0" y="3437.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">warranty</text>
-<text x="1454.0" y="3454.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="3621.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">10. Живу с протезом</text>
-<text x="60.0" y="3641.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">ежедневное использование, поездки, работа,</text>
-<text x="60.0" y="3655.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">спорт</text>
-<text x="374.0" y="3627.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Уход за протезом каждый</text>
-<text x="374.0" y="3641.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">день</text>
-<text x="374.0" y="3644.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → life-terrain</text>
-<text x="644.0" y="3627.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Улица: лестницы, бордюры,</text>
-<text x="644.0" y="3641.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">транспорт, гололёд</text>
-<text x="644.0" y="3644.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → travel</text>
-<text x="914.0" y="3627.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">travel</text>
-<text x="914.0" y="3644.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="1184.0" y="3627.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Возвращение к работе и</text>
-<text x="1184.0" y="3641.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">учёбе</text>
-<text x="1184.0" y="3644.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → sport</text>
-<text x="1454.0" y="3627.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Спорт после ампутации</text>
-<text x="1454.0" y="3644.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → choosing-prosthesis</text>
-<text x="60.0" y="3811.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">11. Подходит замена</text>
-<text x="60.0" y="3831.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">истёк срок пользования или изделие</text>
-<text x="60.0" y="3845.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">износилось</text>
-<text x="374.0" y="3817.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Сроки пользования ТСР и</text>
-<text x="374.0" y="3831.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">плановая замена протеза</text>
-<text x="374.0" y="3834.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">2 утв. · → re-prosthetics</text>
-<text x="644.0" y="3817.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Повторное протезирование:</text>
-<text x="644.0" y="3831.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">что учесть (и когда думать</text>
-<text x="644.0" y="3846.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">об upgrade)</text>
-<text x="644.0" y="3834.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · → choosing-center</text>
-<text x="914.0" y="3817.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">choosing-center</text>
-<text x="914.0" y="3834.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="4001.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#14231c">12. Я близкий</text>
-<text x="60.0" y="4021.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">помощь родственнику после ампутации</text>
-<text x="374.0" y="4007.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Близким: как помогать, не</text>
-<text x="374.0" y="4021.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">лишая самостоятельности</text>
-<text x="374.0" y="4024.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв. · →</text>
-<text x="374.0" y="4035.9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">emotions-after-amputation</text>
-<text x="644.0" y="4007.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">emotions-after-amputation</text>
-<text x="644.0" y="4024.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="914.0" y="4007.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">documents-to-keep</text>
-<text x="914.0" y="4024.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
-<text x="60.0" y="4251.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">Собрано автоматически из Knowledge Base Data · публикационная выгрузка · 2026-11-18</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="3500" height="9400" viewBox="0 0 3500 9400"><rect width="3500" height="9400" fill="#F1ECE0"/><rect x="0" y="0" width="3500" height="1180" fill="#fcfaf5"/>
+<rect x="0.5" y="0.5" width="3499" height="1179" fill="none" stroke="#E4DDCD"/>
+<rect x="0" y="1340" width="3500" height="900" fill="#fcfaf5"/>
+<rect x="0.5" y="1340.5" width="3499" height="899" fill="none" stroke="#E4DDCD"/>
+<rect x="0" y="2400" width="1400" height="2240" fill="#fcfaf5"/>
+<rect x="0.5" y="2400.5" width="1399" height="2239" fill="none" stroke="#E4DDCD"/>
+<rect x="0" y="4800" width="1500" height="760" fill="#fcfaf5"/>
+<rect x="0.5" y="4800.5" width="1499" height="759" fill="none" stroke="#E4DDCD"/>
+<rect x="0" y="5720" width="2240" height="900" fill="#fcfaf5"/>
+<rect x="0.5" y="5720.5" width="2239" height="899" fill="none" stroke="#E4DDCD"/>
+<rect x="0" y="6780" width="3500" height="2620" fill="#fcfaf5"/>
+<rect x="0.5" y="6780.5" width="3499" height="2619" fill="none" stroke="#E4DDCD"/>
+<path d="M700.0,2622.0 L700.0,2622.0 L700.0,2816.0 L700.0,2816.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,2816.0 L700.0,2816.0 L700.0,3028.0 L700.0,3028.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,3028.0 L602.5,3028.0 L602.5,3204.0 L505.0,3204.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,3028.0 L797.5,3028.0 L797.5,3204.0 L895.0,3204.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M505.0,3204.0 L700.0,3204.0 L700.0,3204.0 L895.0,3204.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M895.0,3204.0 L797.5,3204.0 L797.5,3398.0 L700.0,3398.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,3398.0 L700.0,3398.0 L700.0,3610.0 L700.0,3610.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,3610.0 L602.5,3610.0 L602.5,3786.0 L505.0,3786.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,3610.0 L797.5,3610.0 L797.5,3786.0 L895.0,3786.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M895.0,3786.0 L700.0,3786.0 L700.0,3998.0 L505.0,3998.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M505.0,3998.0 L505.0,3998.0 L505.0,4174.0 L505.0,4174.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M505.0,3998.0 L700.0,3998.0 L700.0,4174.0 L895.0,4174.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M505.0,4174.0 L602.5,4174.0 L602.5,4368.0 L700.0,4368.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M895.0,4174.0 L797.5,4174.0 L797.5,4368.0 L700.0,4368.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M505.0,3786.0 L700.0,3786.0 L700.0,3980.0 L895.0,3980.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M700.0,4368.0 L797.5,4368.0 L797.5,3980.0 L895.0,3980.0" fill="none" stroke="#6b7a72" stroke-width="1.3" opacity="0.8"/>
+<path d="M1250.0,6066.0 L1080.0,6066.0 L1080.0,6066.0 L910.0,6066.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M910.0,6066.0 L570.0,6066.0 L570.0,5942.0 L230.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M230.0,5942.0 L400.0,5942.0 L400.0,5942.0 L570.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M570.0,5942.0 L740.0,5942.0 L740.0,5942.0 L910.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1250.0,5942.0 L910.0,5942.0 L910.0,5942.0 L570.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1590.0,5942.0 L1080.0,5942.0 L1080.0,5942.0 L570.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M230.0,6066.0 L400.0,6066.0 L400.0,5942.0 L570.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M230.0,6066.0 L1080.0,6066.0 L1080.0,5942.0 L1930.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M570.0,6066.0 L400.0,6066.0 L400.0,6066.0 L230.0,6066.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1590.0,6066.0 L1760.0,6066.0 L1760.0,5942.0 L1930.0,5942.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1930.0,6066.0 L1590.0,6066.0 L1590.0,6066.0 L1250.0,6066.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,7010.0 L593.0,7010.0 L593.0,7010.0 L728.0,7010.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,7010.0 L863.0,7010.0 L863.0,7010.0 L998.0,7010.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,7200.0 L593.0,7200.0 L593.0,7200.0 L728.0,7200.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,7200.0 L863.0,7200.0 L863.0,7200.0 L998.0,7200.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,7200.0 L1133.0,7200.0 L1133.0,7200.0 L1268.0,7200.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1268.0,7200.0 L1403.0,7200.0 L1403.0,7200.0 L1538.0,7200.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,7390.0 L593.0,7390.0 L593.0,7390.0 L728.0,7390.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,7390.0 L863.0,7390.0 L863.0,7390.0 L998.0,7390.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,7390.0 L1133.0,7390.0 L1133.0,7390.0 L1268.0,7390.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1268.0,7390.0 L1403.0,7390.0 L1403.0,7390.0 L1538.0,7390.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1538.0,7390.0 L1673.0,7390.0 L1673.0,7390.0 L1808.0,7390.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,7580.0 L593.0,7580.0 L593.0,7580.0 L728.0,7580.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,7580.0 L863.0,7580.0 L863.0,7580.0 L998.0,7580.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,7580.0 L1133.0,7580.0 L1133.0,7580.0 L1268.0,7580.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1268.0,7580.0 L1403.0,7580.0 L1403.0,7580.0 L1538.0,7580.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,7770.0 L593.0,7770.0 L593.0,7770.0 L728.0,7770.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,7770.0 L863.0,7770.0 L863.0,7770.0 L998.0,7770.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,7960.0 L593.0,7960.0 L593.0,7960.0 L728.0,7960.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,7960.0 L863.0,7960.0 L863.0,7960.0 L998.0,7960.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,7960.0 L1133.0,7960.0 L1133.0,7960.0 L1268.0,7960.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1268.0,7960.0 L1403.0,7960.0 L1403.0,7960.0 L1538.0,7960.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,8150.0 L593.0,8150.0 L593.0,8150.0 L728.0,8150.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,8150.0 L863.0,8150.0 L863.0,8150.0 L998.0,8150.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,8150.0 L1133.0,8150.0 L1133.0,8150.0 L1268.0,8150.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,8340.0 L593.0,8340.0 L593.0,8340.0 L728.0,8340.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,8340.0 L863.0,8340.0 L863.0,8340.0 L998.0,8340.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,8340.0 L1133.0,8340.0 L1133.0,8340.0 L1268.0,8340.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,8530.0 L593.0,8530.0 L593.0,8530.0 L728.0,8530.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,8530.0 L863.0,8530.0 L863.0,8530.0 L998.0,8530.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,8530.0 L1133.0,8530.0 L1133.0,8530.0 L1268.0,8530.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1268.0,8530.0 L1403.0,8530.0 L1403.0,8530.0 L1538.0,8530.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,8720.0 L593.0,8720.0 L593.0,8720.0 L728.0,8720.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,8720.0 L863.0,8720.0 L863.0,8720.0 L998.0,8720.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M998.0,8720.0 L1133.0,8720.0 L1133.0,8720.0 L1268.0,8720.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M1268.0,8720.0 L1403.0,8720.0 L1403.0,8720.0 L1538.0,8720.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,8910.0 L593.0,8910.0 L593.0,8910.0 L728.0,8910.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,8910.0 L863.0,8910.0 L863.0,8910.0 L998.0,8910.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M458.0,9100.0 L593.0,9100.0 L593.0,9100.0 L728.0,9100.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<path d="M728.0,9100.0 L863.0,9100.0 L863.0,9100.0 L998.0,9100.0" fill="none" stroke="#6b7a72" stroke-width="1.2" opacity="0.8"/>
+<rect x="60" y="150" width="800" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="880" y="150" width="800" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1700" y="150" width="800" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="2520" y="150" width="800" height="96" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="60" y="290" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="78" y="365" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="392" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="419" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="78" y="446" width="22" height="18" rx="6" fill="#ffffff" stroke="#8a5314"/>
+<rect x="78" y="473" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="500" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="527" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="554" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="78" y="581" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="78" y="608" width="22" height="18" rx="6" fill="#ffffff" stroke="#2b5b43"/>
+<rect x="720" y="290" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="738" y="365" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="392" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="419" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="446" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="473" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="738" y="500" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="527" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="554" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1380" y="290" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1398" y="365" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="392" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="1398" y="419" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="1398" y="446" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="473" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="500" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="527" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="1398" y="554" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="2040" y="290" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="2058" y="365" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="392" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2058" y="419" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="446" width="22" height="18" rx="6" fill="#ffffff" stroke="#8a5314"/>
+<rect x="2058" y="473" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="500" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2058" y="527" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2700" y="290" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="2718" y="365" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2718" y="392" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2718" y="419" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="446" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="473" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2718" y="500" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="527" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="554" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="2718" y="581" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="60" y="690" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="78" y="765" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="792" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="78" y="819" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="78" y="846" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="78" y="873" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="78" y="900" width="22" height="18" rx="6" fill="#ffffff" stroke="#8a5314"/>
+<rect x="78" y="927" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="78" y="954" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="720" y="690" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="738" y="765" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="792" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="738" y="819" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="738" y="846" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="873" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="900" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="738" y="927" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="738" y="954" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="738" y="981" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="738" y="1008" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1380" y="690" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1398" y="765" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="1398" y="792" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="819" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="846" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="873" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="900" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="1398" y="927" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="2040" y="690" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="2058" y="765" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="792" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2058" y="819" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2058" y="846" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="873" width="22" height="18" rx="6" fill="#ffffff" stroke="#2f5d8a"/>
+<rect x="2058" y="900" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="927" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2058" y="954" width="22" height="18" rx="6" fill="#ffffff" stroke="#9b2c10"/>
+<rect x="2700" y="690" width="620" height="360" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="2718" y="765" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="792" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="819" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="846" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="873" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="900" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="927" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="2718" y="954" width="22" height="18" rx="6" fill="#ffffff" stroke="#6b7a72"/>
+<rect x="60" y="1500" width="1640" height="660" rx="26" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="100" y="1570" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1618" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1666" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1714" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1762" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1810" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1858" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1906" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="1954" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="2002" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="2050" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="100" y="2098" width="720" height="34" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1740" y="1500" width="1700" height="660" rx="26" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1780" y="1570" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="1780" y="1638" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="1780" y="1706" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="1780" y="1774" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="1780" y="1842" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="1780" y="1910" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="1780" y="1978" width="1620" height="56" rx="18" fill="#fdf0da" stroke="#d8d0c0"/>
+<rect x="540" y="2580" width="320" height="84" rx="14" fill="#e3ecf5" stroke="#2f5d8a"/>
+<rect x="540" y="2774" width="320" height="84" rx="14" fill="#ffffff" stroke="#d8d0c0"/>
+<polygon points="700,2968 850,3028 700,3088 550,3028" fill="#fdf0da" stroke="#8a5314"/>
+<rect x="345" y="3162" width="320" height="84" rx="14" fill="#e3ecf5" stroke="#2f5d8a"/>
+<rect x="735" y="3162" width="320" height="84" rx="14" fill="#e3ecf5" stroke="#2f5d8a"/>
+<rect x="540" y="3356" width="320" height="84" rx="14" fill="#ffffff" stroke="#d8d0c0"/>
+<polygon points="700,3550 850,3610 700,3670 550,3610" fill="#fdf0da" stroke="#8a5314"/>
+<rect x="345" y="3744" width="320" height="84" rx="14" fill="#fde7e1" stroke="#9b2c10" stroke-dasharray="5 5"/>
+<rect x="735" y="3744" width="320" height="84" rx="14" fill="#ffffff" stroke="#d8d0c0"/>
+<polygon points="505,3938 655,3998 505,4058 355,3998" fill="#fdf0da" stroke="#8a5314"/>
+<rect x="345" y="4132" width="320" height="84" rx="14" fill="#fde7e1" stroke="#9b2c10" stroke-dasharray="5 5"/>
+<rect x="735" y="4132" width="320" height="84" rx="14" fill="#e7f0ea" stroke="#2b5b43"/>
+<rect x="540" y="4326" width="320" height="84" rx="14" fill="#e3ecf5" stroke="#2f5d8a"/>
+<rect x="735" y="3938" width="320" height="84" rx="14" fill="#e7f0ea" stroke="#2b5b43"/>
+<rect x="80" y="5020" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5020" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5020" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5020" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5020" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="1300" y="5020" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5064" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5064" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5064" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5064" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5064" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="1300" y="5064" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5108" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5108" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5108" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5108" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5108" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1300" y="5108" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5152" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5152" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5152" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5152" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5152" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="1300" y="5152" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5196" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5196" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5196" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5196" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5196" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1300" y="5196" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5240" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5240" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5240" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5240" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5240" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1300" y="5240" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="80" y="5284" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5284" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5284" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5284" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5284" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1300" y="5284" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5328" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5328" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5328" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5328" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5328" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="1300" y="5328" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="80" y="5372" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5372" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="700" y="5372" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5372" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5372" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1300" y="5372" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5416" width="420" height="38" rx="8" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="500" y="5416" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="700" y="5416" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="900" y="5416" width="200" height="38" rx="8" fill="#f6f1e6" stroke="#d8d0c0"/>
+<rect x="1100" y="5416" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="1300" y="5416" width="200" height="38" rx="8" fill="#fcfaf5" stroke="#d8d0c0"/>
+<rect x="80" y="5900" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="420" y="5900" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="760" y="5900" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1100" y="5900" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1440" y="5900" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1780" y="5900" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="80" y="6024" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="420" y="6024" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="760" y="6024" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1100" y="6024" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1440" y="6024" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1780" y="6024" width="300" height="84" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="360" y="6964" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="6964" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="6964" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="7154" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="7154" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="7154" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1170" y="7154" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1440" y="7154" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="7344" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="630" y="7344" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="7344" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1170" y="7344" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1440" y="7344" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1710" y="7344" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="360" y="7534" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="7534" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="7534" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1170" y="7534" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1440" y="7534" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="360" y="7724" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="7724" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="900" y="7724" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="7914" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="630" y="7914" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="7914" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1170" y="7914" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1440" y="7914" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="8104" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="8104" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="8104" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1170" y="8104" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="8294" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="8294" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="8294" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1170" y="8294" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="8484" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="630" y="8484" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="8484" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1170" y="8484" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1440" y="8484" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="8674" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="630" y="8674" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="900" y="8674" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="1170" y="8674" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="1440" y="8674" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="360" y="8864" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="630" y="8864" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="900" y="8864" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="360" y="9054" width="196" height="92" rx="18" fill="#ffffff" stroke="#d8d0c0"/>
+<rect x="630" y="9054" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<rect x="900" y="9054" width="196" height="92" rx="18" fill="#f6f1e6" stroke="#d8d0c0" stroke-dasharray="5 5"/>
+<text x="60.0" y="80.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#14231c">Функциональная архитектура «Биокомпас»</text>
+<text x="60.0" y="109.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6b7a72">Продукт → функциональные разделы → функции → сценарии → компоненты → данные. Типы: П — пользовательская, С — системная, У — проверка условия, Н — негативная, + — позитивная.</text>
+<text x="76.0" y="175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">L0 · Продукт</text>
+<text x="76.0" y="194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">Открытая платформа: понять ситуацию → разобраться в документах → выбрать изделие и центр → жить с протезом</text>
+<text x="896.0" y="175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">L1 · Функциональные разделы</text>
+<text x="896.0" y="194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">10 разделов: вход, профиль, база знаний, маршрут, каталог, организации, агент, партнёры, редакция, платформа</text>
+<text x="1716.0" y="175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">L2 · Ключевые функции</text>
+<text x="1716.0" y="194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">события разделов: пользовательские и системные</text>
+<text x="2536.0" y="175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">L3 · Детальные функции</text>
+<text x="2536.0" y="194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">валидация, проверки условий, негативные ветки, общие функции</text>
+<text x="76.0" y="318.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S1. Вход и доступ</text>
+<text x="76.0" y="337.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">низкий порог: гость → аккаунт</text>
+<text x="82.0" y="377.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="375.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Просмотр без регистрации</text>
+<text x="82.0" y="404.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="402.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Регистрация: телефон или e-mail</text>
+<text x="82.0" y="431.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="108.0" y="429.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Код подтверждения и лимит попыток</text>
+<text x="82.0" y="458.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#8a5314">У</text>
+<text x="108.0" y="456.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Код верный и не истёк?</text>
+<text x="82.0" y="485.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="483.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Вход и выход</text>
+<text x="82.0" y="512.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="510.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Восстановление доступа</text>
+<text x="82.0" y="539.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="537.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Согласия: политика и обработка данных</text>
+<text x="82.0" y="566.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="108.0" y="564.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Проверка прав и ролей</text>
+<text x="82.0" y="593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="108.0" y="591.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Отказ при неверном коде</text>
+<text x="82.0" y="620.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b5b43">+</text>
+<text x="108.0" y="618.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Успешный вход и возврат в прежний экран</text>
+<text x="736.0" y="318.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S2. Профиль и контекст</text>
+<text x="736.0" y="337.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">персонализация без медицинских данных</text>
+<text x="742.0" y="377.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="375.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Уровень ампутации и сторона</text>
+<text x="742.0" y="404.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="402.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Роль: пациент или близкий</text>
+<text x="742.0" y="431.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="429.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Регион и город</text>
+<text x="742.0" y="458.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="456.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Дата операции / этап пути</text>
+<text x="742.0" y="485.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="768.0" y="483.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Контекст для ответов агента</text>
+<text x="742.0" y="512.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="510.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Сохранённые статьи и чек-листы</text>
+<text x="742.0" y="539.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="537.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Экспорт своих данных</text>
+<text x="742.0" y="566.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="768.0" y="564.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Удаление аккаунта и данных</text>
+<text x="1396.0" y="318.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S3. База знаний</text>
+<text x="1396.0" y="337.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">объяснить путь человеческим языком</text>
+<text x="1402.0" y="377.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="375.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Лента этапов: 10 шагов пути</text>
+<text x="1402.0" y="404.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="1428.0" y="402.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Поиск по статьям</text>
+<text x="1402.0" y="431.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="1428.0" y="429.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Фильтры: этап, конечность, роль</text>
+<text x="1402.0" y="458.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="456.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Карточка статьи и оглавление</text>
+<text x="1402.0" y="485.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="483.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Блок «что проверено»: утверждения и источники</text>
+<text x="1402.0" y="512.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="510.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Следующий шаг и связанные статьи</text>
+<text x="1402.0" y="539.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="1428.0" y="537.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Сохранить статью и чек-лист</text>
+<text x="1402.0" y="566.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="1428.0" y="564.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Нет статьи по запросу → честный пробел</text>
+<text x="2056.0" y="318.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S4. Маршрут</text>
+<text x="2056.0" y="337.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">один путь, а не лабиринт</text>
+<text x="2062.0" y="377.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="375.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Персональный маршрут из 5 этапов</text>
+<text x="2062.0" y="404.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2088.0" y="402.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Отметка выполненных шагов</text>
+<text x="2062.0" y="431.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="429.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Прогресс и подсказка «что дальше»</text>
+<text x="2062.0" y="458.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#8a5314">У</text>
+<text x="2088.0" y="456.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Изменился этап или событие?</text>
+<text x="2062.0" y="485.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="483.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Ветвления: ремонт, посадка, красный флаг</text>
+<text x="2062.0" y="512.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2088.0" y="510.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Сохранить маршрут и вернуться</text>
+<text x="2062.0" y="539.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="537.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Напоминания (позже)</text>
+<text x="2716.0" y="318.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S5. Каталог изделий</text>
+<text x="2716.0" y="337.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">ориентиры, не рекомендации</text>
+<text x="2722.0" y="377.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2748.0" y="375.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Категории: протезы, комплектующие, МПУ</text>
+<text x="2722.0" y="404.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2748.0" y="402.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Фильтры по конечности и уровню</text>
+<text x="2722.0" y="431.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="429.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Карточка изделия: назначение и характеристики</text>
+<text x="2722.0" y="458.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="456.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Доказательства по каждому параметру</text>
+<text x="2722.0" y="485.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2748.0" y="483.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Сравнение модификаций</text>
+<text x="2722.0" y="512.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="510.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Срок эксплуатации и критерии подбора</text>
+<text x="2722.0" y="539.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="537.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Цены только датированные</text>
+<text x="2722.0" y="566.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="2748.0" y="564.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Параметр без источника → не показываем как факт</text>
+<text x="2722.0" y="593.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="591.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Дисклеймер: решение принимает специалист</text>
+<text x="76.0" y="718.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S6. Справочник организаций</text>
+<text x="76.0" y="737.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">выбор центра без рекламы</text>
+<text x="82.0" y="777.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="775.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Поиск по региону и городу</text>
+<text x="82.0" y="804.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="802.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Фильтры: дети, рука/нога, первичное/повторное, э-сертификат, ремонт</text>
+<text x="82.0" y="831.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="108.0" y="829.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Карточка точки: подтверждённые поля и источники</text>
+<text x="82.0" y="858.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="108.0" y="856.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Неизвестные условия показаны явно</text>
+<text x="82.0" y="885.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="108.0" y="883.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Схема: приблизительные позиции по городам</text>
+<text x="82.0" y="912.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#8a5314">У</text>
+<text x="108.0" y="910.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Услуга подтверждена у точки, а не у сети?</text>
+<text x="82.0" y="939.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="108.0" y="937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Только сеть → unknown, не рекомендация</text>
+<text x="82.0" y="966.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="108.0" y="964.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Сохранить в избранное и уточнить перед визитом</text>
+<text x="736.0" y="718.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S7. Агент</text>
+<text x="736.0" y="737.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">проводник, а не энциклопедия</text>
+<text x="742.0" y="777.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="775.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Диалог с учётом контекста</text>
+<text x="742.0" y="804.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="768.0" y="802.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Ответ из подтверждённых утверждений</text>
+<text x="742.0" y="831.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="768.0" y="829.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Ссылка на источник и дату проверки</text>
+<text x="742.0" y="858.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="856.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Уточняющие вопросы</text>
+<text x="742.0" y="885.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="883.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Быстрые сценарии входа</text>
+<text x="742.0" y="912.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="768.0" y="910.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Переход к статье, изделию, точке</text>
+<text x="742.0" y="939.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="768.0" y="937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Нет проверенного ответа → пробел</text>
+<text x="742.0" y="966.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="768.0" y="964.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Медицинская срочность → отказ до редактуры</text>
+<text x="742.0" y="993.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="768.0" y="991.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Ограничение тем и запрещённые советы</text>
+<text x="742.0" y="1020.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="768.0" y="1018.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Эскалация к человеку (позже)</text>
+<text x="1396.0" y="718.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S8. Партнёрский контур</text>
+<text x="1396.0" y="737.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">деньги отдельно от рекомендаций</text>
+<text x="1402.0" y="777.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="1428.0" y="775.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Заявка организации на размещение</text>
+<text x="1402.0" y="804.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="802.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Проверка профиля и лицензии</text>
+<text x="1402.0" y="831.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="829.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Метка «партнёр» на карточке</text>
+<text x="1402.0" y="858.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="856.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Оплата присутствия в каталоге</text>
+<text x="1402.0" y="885.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="883.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Правило: плата не влияет на ранжирование</text>
+<text x="1402.0" y="912.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="1428.0" y="910.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Отчёт показов и переходов</text>
+<text x="1402.0" y="939.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="1428.0" y="937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Отказ при непройденной проверке</text>
+<text x="2056.0" y="718.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S9. Редакция и качество</text>
+<text x="2056.0" y="737.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">внутренний конвейер доверия</text>
+<text x="2062.0" y="777.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="775.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Импорт статей и актов</text>
+<text x="2062.0" y="804.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2088.0" y="802.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Редактура текста</text>
+<text x="2062.0" y="831.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2088.0" y="829.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Клиническая редактура срочности</text>
+<text x="2062.0" y="858.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="856.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Реестр утверждений и источников</text>
+<text x="2062.0" y="885.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2f5d8a">П</text>
+<text x="2088.0" y="883.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Проверка источника: место и цитата</text>
+<text x="2062.0" y="912.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="910.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Публикационная политика</text>
+<text x="2062.0" y="939.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2088.0" y="937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Публикация, откат, журнал изменений</text>
+<text x="2062.0" y="966.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#9b2c10">Н</text>
+<text x="2088.0" y="964.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Расхождение источников → блок публикации</text>
+<text x="2716.0" y="718.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#14231c">S10. Платформа и данные</text>
+<text x="2716.0" y="737.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">технический фундамент</text>
+<text x="2722.0" y="777.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="775.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Единый словарь значений</text>
+<text x="2722.0" y="804.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="802.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Валидация схем и ссылок</text>
+<text x="2722.0" y="831.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="829.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Публикационная выгрузка</text>
+<text x="2722.0" y="858.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="856.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Поиск и индекс</text>
+<text x="2722.0" y="885.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="883.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Аналитика воронки</text>
+<text x="2722.0" y="912.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="910.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Доступность: клавиатура, контраст, скринридер</text>
+<text x="2722.0" y="939.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Приватность и минимум медицинских данных</text>
+<text x="2722.0" y="966.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b7a72">С</text>
+<text x="2748.0" y="964.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Резервные копии и восстановление</text>
+<text x="60.0" y="1111.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">Типы функций: П — пользовательская, С — системная, У — проверка условия, Н — негативная ветка, + — позитивная ветка. Общие функции (поиск, фильтры, карточка, цитата-источник) вынесены в отдельный фрейм и переиспользуются разделами.</text>
+<text x="60.0" y="1420.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#14231c">Общие функции и зависимости</text>
+<text x="60.0" y="1449.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6b7a72">Один раз спроектированные функции, которые используют несколько разделов, и правила, которые блокируют выпуск.</text>
+<text x="80.0" y="1527.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7a72">ОБЩИЕ ФУНКЦИИ (ПЕРЕИСПОЛЬЗУЮТСЯ)</text>
+<text x="80.0" y="1545.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">выносим вовне, чтобы не дублировать в разделах</text>
+<text x="116.0" y="1594.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Поиск</text>
+<text x="840.0" y="1590.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S3, S5, S6</text>
+<text x="116.0" y="1642.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Фильтры и сортировка</text>
+<text x="840.0" y="1638.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S5, S6</text>
+<text x="116.0" y="1690.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Карточка-просмотр</text>
+<text x="840.0" y="1686.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S3, S5, S6</text>
+<text x="116.0" y="1738.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Цитата и источник</text>
+<text x="840.0" y="1734.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S3, S5, S6, S7</text>
+<text x="116.0" y="1786.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Состояния «неизвестно / пробел»</text>
+<text x="840.0" y="1782.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S3, S6, S7</text>
+<text x="116.0" y="1834.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Формы и валидация</text>
+<text x="840.0" y="1830.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S1, S2, S8</text>
+<text x="116.0" y="1882.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Модальные окна</text>
+<text x="840.0" y="1878.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S3, S5, S6</text>
+<text x="116.0" y="1930.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Меню и навигация</text>
+<text x="840.0" y="1926.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: все разделы</text>
+<text x="116.0" y="1978.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Избранное</text>
+<text x="840.0" y="1974.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S4, S6, S7</text>
+<text x="116.0" y="2026.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Уведомления и тосты</text>
+<text x="840.0" y="2022.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S1, S7, S8</text>
+<text x="116.0" y="2074.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Аналитика событий</text>
+<text x="840.0" y="2070.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S3–S7</text>
+<text x="116.0" y="2122.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Дисклеймер и ограничения</text>
+<text x="840.0" y="2118.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">используют: S5, S6, S7</text>
+<text x="1760.0" y="1527.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7a72">БЛОКИРОВКИ И ЗАВИСИМОСТИ</text>
+<text x="1760.0" y="1545.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">функция не выполняется, пока не снято условие</text>
+<text x="1796.0" y="1594.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Публикационная политика</text>
+<text x="1796.0" y="1613.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует ответы агента, пока утверждение не подтверждено</text>
+<text x="1796.0" y="1662.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Клиническая редактура</text>
+<text x="1796.0" y="1681.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует любую срочность и медицинские советы</text>
+<text x="1796.0" y="1730.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Доказательства параметров</text>
+<text x="1796.0" y="1749.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует сравнение изделий и «характеристики»</text>
+<text x="1796.0" y="1798.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Подтверждение полей точки</text>
+<text x="1796.0" y="1817.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует рекомендацию центра, если поля не подтверждены</text>
+<text x="1796.0" y="1866.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Согласия и приватность</text>
+<text x="1796.0" y="1885.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует сохранение медицинского контекста</text>
+<text x="1796.0" y="1934.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Проверка партнёра</text>
+<text x="1796.0" y="1953.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует размещение в каталоге</text>
+<text x="1796.0" y="2002.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Лимит попыток входа</text>
+<text x="1796.0" y="2021.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#6b7a72">блокирует повторную отправку кода</text>
+<text x="60.0" y="2470.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#14231c">Функциональный сценарий: «Нужен центр для ребёнка, рука, по сертификату»</text>
+<text x="60.0" y="2504.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#6b7a72">Пользовательские и системные действия, проверки условий и негативные ветки. Ромб — проверка условия.</text>
+<text x="554.0" y="2607.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Запрос в чате</text>
+<text x="554.0" y="2801.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Профиль: ребёнок, верхняя конечность, регион</text>
+<text x="608.0" y="3021.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Есть ИПРА?</text>
+<text x="359.0" y="3189.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Статья «Как получить и оплатить протез»</text>
+<text x="749.0" y="3189.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Фильтры: дети, рука, э-сертификат</text>
+<text x="554.0" y="3383.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Поиск по подтверждённым точкам</text>
+<text x="608.0" y="3603.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Есть подтверждённые точки?</text>
+<text x="359.0" y="3771.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Пробел: «нет подтверждённой точки», кандидаты</text>
+<text x="359.0" y="3785.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">не рекомендуем</text>
+<text x="749.0" y="3771.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Карточка точки: поля, источники, неизвестное</text>
+<text x="413.0" y="3991.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Э-сертификат подтверждён у</text>
+<text x="413.0" y="4005.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">точки?</text>
+<text x="359.0" y="4159.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Показать «не подтверждено» + уточнить перед</text>
+<text x="359.0" y="4173.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">визитом</text>
+<text x="749.0" y="4159.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Записаться: телефон или форма</text>
+<text x="554.0" y="4353.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Сохранить точку и вернуться в маршрут</text>
+<text x="749.0" y="3965.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="400" fill="#14231c">Ответ с источниками и следующим шагом</text>
+<text x="60.0" y="4594.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">Синий — действие пользователя, белый — системное, ромб — проверка условия, красный — негативная ветка, зелёный — успешное завершение.</text>
+<text x="60.0" y="4874.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#14231c">Матрица: раздел × компонент</text>
+<text x="60.0" y="4905.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6b7a72">Где живёт функциональность: клиент, API, база, редакция, партнёрский контур. ● — основная реализация, ○ — вспомогательная.</text>
+<text x="90.0" y="5001.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7a72">Раздел</text>
+<text x="510.0" y="5002.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Клиент</text>
+<text x="710.0" y="5002.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">API</text>
+<text x="910.0" y="5002.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">БД</text>
+<text x="1110.0" y="5002.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Редакция</text>
+<text x="1310.0" y="5002.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#14231c">Партнёр</text>
+<text x="92.0" y="5042.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Вход и доступ</text>
+<text x="510.0" y="5043.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5043.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5043.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5086.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Профиль и контекст</text>
+<text x="510.0" y="5087.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5087.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5087.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5130.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">База знаний</text>
+<text x="510.0" y="5131.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5131.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5131.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="1110.0" y="5131.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5174.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Маршрут</text>
+<text x="510.0" y="5175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5175.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5218.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Каталог изделий</text>
+<text x="510.0" y="5219.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5219.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5219.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="1110.0" y="5219.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5262.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Справочник организаций</text>
+<text x="510.0" y="5263.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5263.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5263.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="1110.0" y="5263.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="1310.0" y="5263.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5306.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Агент</text>
+<text x="510.0" y="5307.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="710.0" y="5307.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="910.0" y="5307.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="1110.0" y="5307.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="92.0" y="5350.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Партнёрский контур</text>
+<text x="510.0" y="5351.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="710.0" y="5351.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="910.0" y="5351.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="1310.0" y="5351.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="92.0" y="5394.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Редакция и качество</text>
+<text x="510.0" y="5395.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="710.0" y="5395.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●</text>
+<text x="910.0" y="5395.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="1110.0" y="5395.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="92.0" y="5438.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#14231c">Платформа и данные</text>
+<text x="710.0" y="5439.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="910.0" y="5439.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#14231c">●●</text>
+<text x="60.0" y="5794.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#14231c">Слой данных: сущности и связи</text>
+<text x="60.0" y="5825.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6b7a72">Что хранится и на что опирается функциональность. Утверждение — минимальная единица доказательства, публикация — фильтр допуска.</text>
+<text x="96.0" y="5925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Статья</text>
+<text x="96.0" y="5943.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">этап, конечность, роль, следующий шаг</text>
+<text x="436.0" y="5925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Утверждение</text>
+<text x="436.0" y="5943.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">сущность, поле, срочность, источник, место</text>
+<text x="776.0" y="5925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Источник</text>
+<text x="776.0" y="5943.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">тип, ссылка, дата, первичный/вторичный</text>
+<text x="1116.0" y="5925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Норма</text>
+<text x="1116.0" y="5943.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">акт, пункт, редакция, условия</text>
+<text x="1456.0" y="5925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Изделие</text>
+<text x="1456.0" y="5943.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">категория, параметры, доказательства</text>
+<text x="1796.0" y="5925.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Организация</text>
+<text x="1796.0" y="5943.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">профиль, тип, сайт</text>
+<text x="96.0" y="6049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Точка приёма</text>
+<text x="96.0" y="6067.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">адрес, услуги, оплата, неизвестное</text>
+<text x="436.0" y="6049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Кандидат</text>
+<text x="436.0" y="6067.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">причина, что проверить</text>
+<text x="776.0" y="6049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Публикация</text>
+<text x="776.0" y="6067.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">политика, допуск, блокеры</text>
+<text x="1116.0" y="6049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Пользователь</text>
+<text x="1116.0" y="6067.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">роль, контекст, согласия</text>
+<text x="1456.0" y="6049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Партнёр</text>
+<text x="1456.0" y="6067.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">статус, оплата, метка</text>
+<text x="1796.0" y="6049.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#14231c">Событие аналитики</text>
+<text x="1796.0" y="6067.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">шаг, источник, результат</text>
+<text x="60.0" y="6860.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" fill="#14231c">Цикл статей: типовые входы</text>
+<text x="60.0" y="6891.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#6b7a72">Каждая цепочка — маршрут из базы знаний. Заливка — статья опубликована, пунктир — материал в проверке.</text>
+<text x="60.0" y="6980.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">1. Только узнал об ампутации (до</text>
+<text x="60.0" y="6998.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">операции)</text>
+<text x="60.0" y="7000.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">операция предстоит или обсуждается</text>
+<text x="376.0" y="6987.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">pre-amputation-conversation</text>
+<text x="376.0" y="7004.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="6987.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">before-surgery-checklist</text>
+<text x="646.0" y="7004.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="6987.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-days-what-is-normal</text>
+<text x="916.0" y="7004.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="7170.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">2. Только что прооперировали</text>
+<text x="60.0" y="7190.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">ранний период после ампутации, рана и культя</text>
+<text x="376.0" y="7177.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-days-what-is-normal</text>
+<text x="376.0" y="7194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="7177.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">when-call-doctor-urgent</text>
+<text x="646.0" y="7194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="7177.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Близким: как помогать, не</text>
+<text x="916.0" y="7191.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">лишая самостоятельности</text>
+<text x="916.0" y="7194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1186.0" y="7177.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">documents-to-keep</text>
+<text x="1186.0" y="7194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1456.0" y="7177.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">year-timeline</text>
+<text x="1456.0" y="7194.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="7360.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">3. Раннее восстановление: боль,</text>
+<text x="60.0" y="7378.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">культя, первые шаги</text>
+<text x="60.0" y="7380.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">первые недели после ампутации: боль, форма</text>
+<text x="60.0" y="7393.2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">культи, движения, возвращение домой</text>
+<text x="376.0" y="7367.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Первый разговор о</text>
+<text x="376.0" y="7381.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">прогнозе: смогу ли ходить,</text>
+<text x="376.0" y="7396.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">пользоваться рукой</text>
+<text x="376.0" y="7384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="646.0" y="7367.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">pain-postop-vs-phantom</text>
+<text x="646.0" y="7384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="7367.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">stump-shaping</text>
+<text x="916.0" y="7384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1186.0" y="7367.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-movements</text>
+<text x="1186.0" y="7384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1456.0" y="7367.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Возвращение домой:</text>
+<text x="1456.0" y="7381.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">подготовка квартиры</text>
+<text x="1456.0" y="7384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1726.0" y="7367.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Кресло, ходунки, костыли:</text>
+<text x="1726.0" y="7381.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">средства передвижения на</text>
+<text x="1726.0" y="7396.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">первое время</text>
+<text x="1726.0" y="7384.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="60.0" y="7550.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">4. Собираю документы</text>
+<text x="60.0" y="7570.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">нужны МСЭ, ИПРА и оплата протеза</text>
+<text x="376.0" y="7557.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">documents-to-keep</text>
+<text x="376.0" y="7574.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="7557.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">mse-step-by-step</text>
+<text x="646.0" y="7574.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="7557.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">ИПРА: как читать и что</text>
+<text x="916.0" y="7571.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">проверить</text>
+<text x="916.0" y="7574.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1186.0" y="7557.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Как включить или изменить</text>
+<text x="1186.0" y="7571.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">ТСР в ИПРА: заявления и</text>
+<text x="1186.0" y="7586.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">порядок</text>
+<text x="1186.0" y="7574.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1456.0" y="7557.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Как получить и оплатить</text>
+<text x="1456.0" y="7571.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">протез: ИПРА, электронный</text>
+<text x="1456.0" y="7586.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">сертификат, платно</text>
+<text x="1456.0" y="7574.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">2 утв.</text>
+<text x="60.0" y="7740.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">5. Льготы, выплаты и права</text>
+<text x="60.0" y="7760.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">нужно понять, что положено, и отстоять права</text>
+<text x="376.0" y="7747.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">benefits-and-compensations</text>
+<text x="376.0" y="7764.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="7747.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Участникам СВО и их</text>
+<text x="646.0" y="7761.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">близким: особый порядок</text>
+<text x="646.0" y="7764.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="916.0" y="7747.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">rights-choice</text>
+<text x="916.0" y="7764.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="7930.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">6. Разбираюсь в терминах и типах</text>
+<text x="60.0" y="7948.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">протезов</text>
+<text x="60.0" y="7950.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">нужно понять уровни ампутации, типы протезов и</text>
+<text x="60.0" y="7963.2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">термины</text>
+<text x="376.0" y="7937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Базовые термины: гильза,</text>
+<text x="376.0" y="7951.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">лайнер, подвес, модуль</text>
+<text x="376.0" y="7954.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="646.0" y="7937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">amputation-levels</text>
+<text x="646.0" y="7954.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="7937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">prosthesis-types-lower</text>
+<text x="916.0" y="7954.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1186.0" y="7937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">prosthesis-types-upper</text>
+<text x="1186.0" y="7954.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1456.0" y="7937.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">how-prosthetics-works</text>
+<text x="1456.0" y="7954.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="8120.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">7. Выбираю центр и протез</text>
+<text x="60.0" y="8140.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">ИПРА есть, нужно выбрать организацию и тип</text>
+<text x="60.0" y="8153.2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">изделия</text>
+<text x="376.0" y="8127.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">choosing-center</text>
+<text x="376.0" y="8144.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="8127.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">questions-before-contract</text>
+<text x="646.0" y="8144.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="8127.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Как выбирают протез: образ</text>
+<text x="916.0" y="8141.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">жизни, показания, бюджет</text>
+<text x="916.0" y="8144.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1186.0" y="8127.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">mpu-and-bionic</text>
+<text x="1186.0" y="8144.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="8310.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">8. Получил протез</text>
+<text x="60.0" y="8330.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">первая примерка, обучение, привыкание</text>
+<text x="376.0" y="8317.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">first-fit</text>
+<text x="376.0" y="8334.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="8317.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">wearing-time</text>
+<text x="646.0" y="8334.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="8317.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Этапы привыкания к протезу</text>
+<text x="916.0" y="8334.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1186.0" y="8317.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">daily-stump-care</text>
+<text x="1186.0" y="8334.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="8500.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">9. Протез натирает, лайнер</text>
+<text x="60.0" y="8518.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">износился или нужен ремонт</text>
+<text x="60.0" y="8520.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">проблема посадки, износ расходников, плановый</text>
+<text x="60.0" y="8533.2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">осмотр, поломка</text>
+<text x="376.0" y="8507.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">event-fit-problem</text>
+<text x="376.0" y="8524.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="646.0" y="8507.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">liner-care</text>
+<text x="646.0" y="8524.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="8507.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">checkups</text>
+<text x="916.0" y="8524.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1186.0" y="8507.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Событие: поломка дома, на</text>
+<text x="1186.0" y="8521.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">улице, в поездке</text>
+<text x="1186.0" y="8524.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1456.0" y="8507.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">warranty</text>
+<text x="1456.0" y="8524.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="8690.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">10. Живу с протезом</text>
+<text x="60.0" y="8710.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">ежедневное использование, поездки, работа,</text>
+<text x="60.0" y="8723.2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">спорт</text>
+<text x="376.0" y="8697.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Уход за протезом каждый</text>
+<text x="376.0" y="8711.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">день</text>
+<text x="376.0" y="8714.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="646.0" y="8697.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Улица: лестницы, бордюры,</text>
+<text x="646.0" y="8711.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">транспорт, гололёд</text>
+<text x="646.0" y="8714.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="916.0" y="8697.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">travel</text>
+<text x="916.0" y="8714.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="1186.0" y="8697.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Возвращение к работе и</text>
+<text x="1186.0" y="8711.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">учёбе</text>
+<text x="1186.0" y="8714.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="1456.0" y="8697.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Спорт после ампутации</text>
+<text x="1456.0" y="8714.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="60.0" y="8880.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">11. Подходит замена</text>
+<text x="60.0" y="8900.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">истёк срок пользования или изделие износилось</text>
+<text x="376.0" y="8887.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Сроки пользования ТСР и</text>
+<text x="376.0" y="8901.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">плановая замена протеза</text>
+<text x="376.0" y="8904.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">2 утв.</text>
+<text x="646.0" y="8887.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Повторное протезирование:</text>
+<text x="646.0" y="8901.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">что учесть (и когда думать</text>
+<text x="646.0" y="8916.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">об upgrade)</text>
+<text x="646.0" y="8904.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="916.0" y="8887.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">choosing-center</text>
+<text x="916.0" y="8904.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="60.0" y="9070.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#14231c">12. Я близкий</text>
+<text x="60.0" y="9090.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="400" fill="#6b7a72">помощь родственнику после ампутации</text>
+<text x="376.0" y="9077.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">Близким: как помогать, не</text>
+<text x="376.0" y="9091.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">лишая самостоятельности</text>
+<text x="376.0" y="9094.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">1 утв.</text>
+<text x="646.0" y="9077.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">emotions-after-amputation</text>
+<text x="646.0" y="9094.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text>
+<text x="916.0" y="9077.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#14231c">documents-to-keep</text>
+<text x="916.0" y="9094.0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="9" font-weight="400" fill="#6b7a72">в проверке</text></svg>

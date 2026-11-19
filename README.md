@@ -168,17 +168,26 @@ python tools/export_web.py     # пересборка biocompass/kb/kb.json
 
 ## Плагин Figma: функциональная архитектура
 
-В `figma-plugin/` лежит плагин для FigJam, который собирает функциональную архитектуру
-приложения из той же базы знаний: входы → разделы → цикл статей по 10 этапам → каталог →
-слой доказательств, плюс отдельный фрейм с 12 типовыми маршрутами.
+В `figma-plugin/` лежит плагин для FigJam, который рисует функциональную архитектуру
+приложения по подходу Павла Шерера (функции → разделы → общие функции → зависимости):
+
+- 10 функциональных разделов и 83 функции с типами (пользовательская, системная,
+  проверка условия, негативная, позитивная);
+- общие функции и правила-блокировки;
+- функциональный сценарий «нужен центр для ребёнка, рука, по сертификату»;
+- матрица «раздел × компонент» (клиент, API, БД, редакция, партнёрский контур);
+- слой данных: 12 сущностей и связи;
+- цикл статей по 12 типовым входам из базы знаний.
 
 ```powershell
-node scripts/build-plugin-data.mjs   # данные из kb/kb.json + routes.json → figma-plugin/code.js
-node scripts/test-plugin.mjs         # проверка с мок-API Figma + preview/figma-plugin-architecture.svg
+node scripts/build-plugin-data.mjs   # данные + архитектура → figma-plugin/code.js
+node scripts/test-plugin.mjs         # проверка с мок-API Figma + SVG-превью
+node scripts/render-plugin-preview.mjs
 ```
 
 Установка: Figma Desktop → Plugins → Development → Import plugin from manifest… →
-`figma-plugin/manifest.json`. Подробности и ограничения — в [figma-plugin/README.md](figma-plugin/README.md).
+`figma-plugin/manifest.json`. Подробности — в [figma-plugin/README.md](figma-plugin/README.md),
+превью фреймов — `preview/figma-plugin-frame-*.png`.
 
 ## Референсы
 
